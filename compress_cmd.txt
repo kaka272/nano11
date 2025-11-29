@@ -1,0 +1,1 @@
+compact c:\*.* /exe:lzx /s /i /c
